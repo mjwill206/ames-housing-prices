@@ -1,4 +1,4 @@
-# Project 2 - Ames Housing Data and Kaggle Challenge
+# Estimating Home Prices in Ames, IA
 
 Project completed by Matt Williams
 
@@ -112,5 +112,3 @@ This model can be further refined. Here are actions I would take to improve the 
 - 3) Use more current data: predictions for 2020 home sale prices may not be the most accurate with a model built on housing data from 2006 - 2010. Not only must we account for inflation, but the housing market crisis likely had an impact on sale prices during this period.
 
 Based on the models and the factors that most influence a home's sale price, the client should purchase a brand new or newly remodeled 2.5 story home of the highest overall quality and that has the largest overall space - main living area, basement, outdoor ameneties, etc. This will meet the client's desire to purchase the most expensive home possible.
-# ames-housing-prices
-# ames-housing-prices
