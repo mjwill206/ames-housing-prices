@@ -113,3 +113,4 @@ This model can be further refined. Here are actions I would take to improve the 
 
 Based on the models and the factors that most influence a home's sale price, the client should purchase a brand new or newly remodeled 2.5 story home of the highest overall quality and that has the largest overall space - main living area, basement, outdoor ameneties, etc. This will meet the client's desire to purchase the most expensive home possible.
 # ames-housing-prices
+# ames-housing-prices
