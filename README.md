@@ -4,17 +4,17 @@ Project completed by Matt Williams
 
 ### Problem Statement:
 
-A small real estate firm in Ames, IA has recently been contacted by a high profile politician. The new client is anticipating a need to set up local operations in the battleground state of Iowa for the upcoming presidential election. They are looking to purchase a home in Ames due to it's location near the geographic center of the state, which will make canvasing easier for him and his staff. The real estate firm has been trusted with developing a model to predict housing prices in an effort to help the client find the most ideal living situation that fits all of their needs - their cast, looking for the most expensive house possible (they are very particular about their requirements). We will develop several models to predict home prices, and investigate some of the factors that most influence a home's sale price.
+I will be using regression methods to estimate home sale prices in Ames, IA. I will develop several models to predict home prices, and investigate some of the factors that most influence a home's sale price.
 
 ---
 
 ### Contents:
-- [Data Sources & Dictionary](#Data_Sources)
-- [Data Cleaning](#Data_Cleaning)
-- [Feature Engineering](#Feature_Engineering)
-- [Exploratory Data Analysis](#Exploratory_Data_Analysis)
+- [Data Sources & Dictionary](#Data-Sources-&-Dictionary)
+- [Data Cleaning](#Data-Cleaning)
+- [Feature Engineering](#Feature-Engineering)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Modeling](#Modeling)
-- [Conclusions and Recommendations](#Conclusions_and_Recommendations)
+- [Conclusions and Recommendations](#Conclusions-and-Recommendations)
 
 ---
 
@@ -26,7 +26,7 @@ For this project, I used the datasets provided by Kaggle for the [Ames Iowa hous
 - [Test set](./datasets/test.csv)
 
 
-Our "train" data consists of over 2,000 observations of homes sold in Ame's IA from 2006 - 2010. There are 81 columns, including our target "SalePrice". This set was used to build a model to predict housing prices.
+Our "train" data consists of over 2,000 observations of homes sold in Ames, IA from 2006 - 2010. There are 81 columns, including our target "SalePrice". This set was used to build a model to predict housing prices.
 
 The "test" data contains the same columns, minus our "SalePrice" target. Once we a model is fit to the "Train" set,
 
@@ -112,3 +112,4 @@ This model can be further refined. Here are actions I would take to improve the 
 - 3) Use more current data: predictions for 2020 home sale prices may not be the most accurate with a model built on housing data from 2006 - 2010. Not only must we account for inflation, but the housing market crisis likely had an impact on sale prices during this period.
 
 Based on the models and the factors that most influence a home's sale price, the client should purchase a brand new or newly remodeled 2.5 story home of the highest overall quality and that has the largest overall space - main living area, basement, outdoor ameneties, etc. This will meet the client's desire to purchase the most expensive home possible.
+# ames-housing-prices
